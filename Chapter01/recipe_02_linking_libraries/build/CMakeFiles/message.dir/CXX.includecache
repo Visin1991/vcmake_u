@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/v/vgit/vcmake_u/Chapter01/recipe_02_linking_libraries/Message.cpp
+Message.hpp
+/home/v/vgit/vcmake_u/Chapter01/recipe_02_linking_libraries/Message.hpp
+iostream
+-
+string
+-
+
+/home/v/vgit/vcmake_u/Chapter01/recipe_02_linking_libraries/Message.hpp
+iosfwd
+-
+string
+-
+

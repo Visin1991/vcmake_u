@@ -1,0 +1,3 @@
+/home/v/vgit/vcmake_u/test1/build/CMakeFiles/rebuild_cache.dir
+/home/v/vgit/vcmake_u/test1/build/CMakeFiles/hello-world.dir
+/home/v/vgit/vcmake_u/test1/build/CMakeFiles/edit_cache.dir

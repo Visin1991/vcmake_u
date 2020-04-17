@@ -1,0 +1,4 @@
+/home/v/vgit/vcmake_u/Chapter01/recipe_02_linking_libraries/build/CMakeFiles/edit_cache.dir
+/home/v/vgit/vcmake_u/Chapter01/recipe_02_linking_libraries/build/CMakeFiles/rebuild_cache.dir
+/home/v/vgit/vcmake_u/Chapter01/recipe_02_linking_libraries/build/CMakeFiles/message.dir
+/home/v/vgit/vcmake_u/Chapter01/recipe_02_linking_libraries/build/CMakeFiles/hello-world.dir
