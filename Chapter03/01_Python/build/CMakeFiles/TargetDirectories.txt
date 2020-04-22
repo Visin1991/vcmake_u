@@ -1,0 +1,2 @@
+/home/v/vgit/vcmake_u/Chapter03/01_Python/build/CMakeFiles/rebuild_cache.dir
+/home/v/vgit/vcmake_u/Chapter03/01_Python/build/CMakeFiles/edit_cache.dir
