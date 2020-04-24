@@ -1,4 +1,4 @@
-# Install script for directory: /home/v/vgit/vcmake_u/Chapter03/02_PythonLibrary
+# Install script for directory: /home/v/shared/vgit/vcmake_u/Chapter03/02_PythonLibrary
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/v/vgit/vcmake_u/Chapter03/02_PythonLibrary/build/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/v/shared/vgit/vcmake_u/Chapter03/02_PythonLibrary/build/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

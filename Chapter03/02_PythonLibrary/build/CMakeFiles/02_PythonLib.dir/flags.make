@@ -6,5 +6,5 @@ C_FLAGS =   -std=gnu99
 
 C_DEFINES = 
 
-C_INCLUDES = -I/usr/include/python2.7 
+C_INCLUDES = -I/usr/include/python3.6 
 

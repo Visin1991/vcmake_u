@@ -4,13 +4,13 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
-  "/home/v/vgit/vcmake_u/Chapter03/02_PythonLibrary/hello-python.c" "/home/v/vgit/vcmake_u/Chapter03/02_PythonLibrary/build/CMakeFiles/02_PythonLib.dir/hello-python.c.o"
+  "/home/v/shared/vgit/vcmake_u/Chapter03/02_PythonLibrary/hello-python.c" "/home/v/shared/vgit/vcmake_u/Chapter03/02_PythonLibrary/build/CMakeFiles/02_PythonLib.dir/hello-python.c.o"
   )
 set(CMAKE_C_COMPILER_ID "GNU")
 
 # The include file search paths:
 set(CMAKE_C_TARGET_INCLUDE_PATH
-  "/usr/include/python2.7"
+  "/usr/include/python3.6"
   )
 
 # Targets to which this target links.

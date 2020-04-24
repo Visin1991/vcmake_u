@@ -54,10 +54,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/v/vgit/vcmake_u/Chapter03/02_PythonLibrary
+CMAKE_SOURCE_DIR = /home/v/shared/vgit/vcmake_u/Chapter03/02_PythonLibrary
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/v/vgit/vcmake_u/Chapter03/02_PythonLibrary/build
+CMAKE_BINARY_DIR = /home/v/shared/vgit/vcmake_u/Chapter03/02_PythonLibrary/build
 
 #=============================================================================
 # Target rules for target CMakeFiles/02_PythonLib.dir
@@ -66,7 +66,7 @@ CMAKE_BINARY_DIR = /home/v/vgit/vcmake_u/Chapter03/02_PythonLibrary/build
 CMakeFiles/02_PythonLib.dir/all:
 	$(MAKE) -f CMakeFiles/02_PythonLib.dir/build.make CMakeFiles/02_PythonLib.dir/depend
 	$(MAKE) -f CMakeFiles/02_PythonLib.dir/build.make CMakeFiles/02_PythonLib.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/v/vgit/vcmake_u/Chapter03/02_PythonLibrary/build/CMakeFiles --progress-num=1,2 "Built target 02_PythonLib"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/v/shared/vgit/vcmake_u/Chapter03/02_PythonLibrary/build/CMakeFiles --progress-num=1,2 "Built target 02_PythonLib"
 .PHONY : CMakeFiles/02_PythonLib.dir/all
 
 # Include target in all.
@@ -76,9 +76,9 @@ all: CMakeFiles/02_PythonLib.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/02_PythonLib.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/v/vgit/vcmake_u/Chapter03/02_PythonLibrary/build/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/v/shared/vgit/vcmake_u/Chapter03/02_PythonLibrary/build/CMakeFiles 2
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/02_PythonLib.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/v/vgit/vcmake_u/Chapter03/02_PythonLibrary/build/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/v/shared/vgit/vcmake_u/Chapter03/02_PythonLibrary/build/CMakeFiles 0
 .PHONY : CMakeFiles/02_PythonLib.dir/rule
 
 # Convenience name for target.

@@ -23,7 +23,6 @@ set(CMAKE_MAKEFILE_DEPENDS
   "/usr/share/cmake-3.10/Modules/CMakeDetermineCompilerId.cmake"
   "/usr/share/cmake-3.10/Modules/CMakeDetermineSystem.cmake"
   "/usr/share/cmake-3.10/Modules/CMakeFindBinUtils.cmake"
-  "/usr/share/cmake-3.10/Modules/CMakeFindFrameworks.cmake"
   "/usr/share/cmake-3.10/Modules/CMakeGenericSystem.cmake"
   "/usr/share/cmake-3.10/Modules/CMakeLanguageInformation.cmake"
   "/usr/share/cmake-3.10/Modules/CMakeParseImplicitLinkInfo.cmake"
@@ -70,16 +69,11 @@ set(CMAKE_MAKEFILE_DEPENDS
   "/usr/share/cmake-3.10/Modules/Compiler/Watcom-DetermineCompiler.cmake"
   "/usr/share/cmake-3.10/Modules/Compiler/XL-C-DetermineCompiler.cmake"
   "/usr/share/cmake-3.10/Modules/Compiler/zOS-C-DetermineCompiler.cmake"
-  "/usr/share/cmake-3.10/Modules/FindPackageHandleStandardArgs.cmake"
-  "/usr/share/cmake-3.10/Modules/FindPackageMessage.cmake"
-  "/usr/share/cmake-3.10/Modules/FindPythonInterp.cmake"
-  "/usr/share/cmake-3.10/Modules/FindPythonLibs.cmake"
   "/usr/share/cmake-3.10/Modules/Internal/FeatureTesting.cmake"
   "/usr/share/cmake-3.10/Modules/Platform/Linux-GNU-C.cmake"
   "/usr/share/cmake-3.10/Modules/Platform/Linux-GNU.cmake"
   "/usr/share/cmake-3.10/Modules/Platform/Linux.cmake"
   "/usr/share/cmake-3.10/Modules/Platform/UnixPaths.cmake"
-  "/usr/share/cmake-3.10/Modules/SelectLibraryConfigurations.cmake"
   )
 
 # The corresponding makefile is:
