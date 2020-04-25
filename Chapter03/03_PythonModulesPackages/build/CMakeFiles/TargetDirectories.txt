@@ -1,0 +1,3 @@
+/home/v/shared/vgit/vcmake_u/Chapter03/03_PythonModulesPackages/build/CMakeFiles/rebuild_cache.dir
+/home/v/shared/vgit/vcmake_u/Chapter03/03_PythonModulesPackages/build/CMakeFiles/pure-embedding.dir
+/home/v/shared/vgit/vcmake_u/Chapter03/03_PythonModulesPackages/build/CMakeFiles/edit_cache.dir
